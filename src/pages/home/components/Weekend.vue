@@ -1,6 +1,6 @@
 <template >
   <div>
-    <div class="recommend-title">周末去哪</div>
+    <div class="recommend-title">周末去哪儿</div>
     <ul>
       <li class="item border-bottom" v-for="item in recommendList" :key="item.id">
         <div class="item-img-wrapper">
@@ -43,7 +43,6 @@ export default {
 <style lang="stylus" scoped>
   @import '~styles/mixins.styl'
   .recommend-title
-    margin-top .2rem
     line-height: .8rem
     background: #eee
     text-indent: .2rem
