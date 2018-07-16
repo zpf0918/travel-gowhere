@@ -53,10 +53,6 @@ export default {
         id: '0008',
         imgUrl: 'http://img1.qunarzz.com/piao/fusion/1803/54/35899492b1302802.png',
         desc: '公园'
-      }, {
-        id: '0009',
-        imgUrl: 'http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png',
-        desc: '圣地'
       }]
     }
   },
